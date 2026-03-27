@@ -28,6 +28,18 @@ Create custom routines with time-based and rep-based exercises, run them through
 
 ---
 
+## Visual Showcase
+
+<p align="center">
+  <img src="screenshots/home.png" width="30%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/editor.png" width="30%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/timer.png" width="30%" />
+</p>
+
+---
+
 ## Features
 
 ### 🔒 Offline-First Architecture
