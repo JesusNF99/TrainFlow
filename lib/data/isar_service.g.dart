@@ -1,0 +1,27 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'isar_service.dart';
+
+// **************************************************************************
+// RiverpodGenerator
+// **************************************************************************
+
+String _$isarHash() => r'6bf1456b4cf8e475383768857a81d495caa79af6';
+
+/// Riverpod provider for the main Isar instance.
+/// Must be overridden in ProviderScope after Isar initialization.
+///
+/// Copied from [isar].
+@ProviderFor(isar)
+final isarProvider = Provider<Isar>.internal(
+  isar,
+  name: r'isarProvider',
+  debugGetCreateSourceHash:
+      const bool.fromEnvironment('dart.vm.product') ? null : _$isarHash,
+  dependencies: null,
+  allTransitiveDependencies: null,
+);
+
+typedef IsarRef = ProviderRef<Isar>;
+// ignore_for_file: type=lint
+// ignore_for_file: subtype_of_sealed_class, invalid_use_of_internal_member, invalid_use_of_visible_for_testing_member
